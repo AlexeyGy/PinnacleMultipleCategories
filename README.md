@@ -1,5 +1,7 @@
 # PinnacleMultipleCategories
-Enable multiple category selection on blog pages. All files that were edited are in this repository.
+Enable multiple category selection on blog pages. All files that were edited are in this repository. All changes are marked by the following preface:
+
+/*AGY $date BEGIN CHANGE*/
 # screenshot 1 in theme options (in German, but should be understandable)
 ![screenshot1](https://github.com/Klenty/PinnacleMultipleCategories/blob/master/1.png)
 changes were made in accordance to the redux framework doc https://docs.reduxframework.com/core/fields/select/
